@@ -5,7 +5,7 @@ Old B.O.A.T version
 
 ----- info -----
 
-This is an old version of my discord bot B.O.A.T.
+This is an old version of my discord bot B.O.A.T
 
 ----- Website ----- 
 
